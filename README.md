@@ -63,3 +63,19 @@ Hostinger · DigitalOcean · Vultr · Hetzner · Linode · Contabo · GoDaddy
 ---
 
 [sidratnam.com](https://sidratnam.com) · [Agentic Commerce](https://sidratnam.com/agentic-commerce) · hello@sidratnam.com
+
+
+## Current Status — May 2026
+
+The agentic commerce window is open. Key developments:
+
+- ChatGPT Operator is live and making purchases
+- ACP (Agent Commerce Protocol) adoption increasing among merchants
+- Perplexity Comet in early access, autonomous purchasing enabled
+- Most stores still have zero agent-ready infrastructure
+
+The stores building this now own the channel before it crowds.
+
+**Foundation build: $5,000. Full Suite: $20,000. 100% money-back guarantee.**
+
+[Start the conversation →](https://sidratnam.com/agentic-commerce)
